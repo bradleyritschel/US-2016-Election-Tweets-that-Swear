@@ -6,7 +6,7 @@ This app utilizes WebGL globe and the Twitter API to plot and live stream tweets
 
 
 
-This filtiering results in tweets being displayed that include crude language towards the candidates.
+This filtering results in tweets being displayed that feature crude language towards the candidates, exposing the political polarization and hostility this election has caused.
 
 References
 - [Twitter API statuses/filter stream](https://dev.twitter.com/streaming/reference/post/statuses/filter)
