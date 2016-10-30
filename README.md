@@ -2,7 +2,7 @@ This app utilizes WebGL globe and the Twitter API to plot and live stream tweets
 
 1) trump,clinton,stein,johnson
 
-2) shit,fuck,damn,bitch,crap,piss,dick,darn,cock,pussy,asshole,fag,bastard,slut,douche (15 most popular swear words on facebook)
+2) shit,fuck,damn,bitch,crap,piss,dick,darn,cock,pussy,asshole,fag,bastard,slut,douche
 
 
 
