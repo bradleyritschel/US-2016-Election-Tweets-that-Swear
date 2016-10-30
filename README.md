@@ -2,7 +2,9 @@ This app utilizes WebGL globe and the Twitter API to plot and live stream tweets
 
 1) trump,clinton,stein,johnson
 
-2) shit,fuck,damn,bitch,crap,piss,dick,darn,cock,pussy,asshole,fag,bastard,slut,douche
+2) shit,fuck,damn,bitch,crap,piss,dick,darn,cock,pussy,asshole,fag,bastard,slut,douche (15 most popular swear words on facebook)
+
+
 
 This filtiering results in tweets being displayed that include crude language towards the candidates.
 
@@ -12,3 +14,4 @@ References
 - [AngularJS](https://angularjs.org/)
 - [PubNub AngularJS SDK](https://github.com/pubnub/pubnub-angular)
 - [Three.js](http://threejs.org/)
+- 15 most popular Facebook swear words http://www.slate.com/blogs/lexicon_valley/2013/09/11/top_swear_words_most_popular_curse_words_on_facebook.html
