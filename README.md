@@ -16,3 +16,5 @@ References
 - [Three.js](http://threejs.org/)
 - 15 most popular Facebook swear words (http://www.slate.com/blogs/lexicon_valley/2013/09/11/top_swear_words_most_popular_curse_words_on_facebook.html)
 - WebGL globe of live tweets https://github.com/twitterdev/twitter-stream-globe
+
+package.json was deleted because of security vulnerabilities
